@@ -36,7 +36,7 @@ Here’s what I currently work with:
 
 ## 📚 Side Interests
 
-When not coding, I'm likely reading classical literature or exploring philosophical and psychological topics. I enjoy thoughtful discussions and debates around history, society, and ethics — but tech always comes first.
+When not coding, I'm likely reading classical literature or exploring philosophical and psychological topics. I enjoy thoughtful discussions and debates around history, society, and ethics, but tech always comes first.
 
 ---
 
@@ -44,6 +44,7 @@ When not coding, I'm likely reading classical literature or exploring philosophi
 
 - **Email:** `thedarasasindi@gmail.com`  
 - **LinkedIn:** https://www.linkedin.com/in/sasindi22/
+- **Blog:** (https://hashnode.com/@sasindi)
 
 ---
 
